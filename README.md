@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pramira-Mindula
-- 🌱 I’m currently learning Bsc(hon)Software Engineering
 - 📫 How to reach me pramira2003@gmail.com
 
 <!---
