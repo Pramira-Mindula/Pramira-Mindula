@@ -8,10 +8,35 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pramira-Mindula)
 
-## 📊 GitHub Stats
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pramira-Mindula&theme=github)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Pramira-Mindula&show_icons=true&theme=tokyonight)
+<table>
+<tr>
+<td>
 
-## 🔥 Streak
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pramira-Mindula&theme=github)
+
+</td>
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pramira-Mindula&theme=github)
+
+</td>
+</tr>
+<tr>
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pramira-Mindula&theme=github)
+
+</td>
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pramira-Mindula&theme=github)
+
+</td>
+</tr>
+</table>
+
+<!-- ## 🔥 Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pramira-Mindula&theme=tokyonight)
