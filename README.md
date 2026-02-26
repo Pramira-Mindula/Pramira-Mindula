@@ -29,6 +29,7 @@
 
 - 📧 Email: **pramira2003@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/pramira-mindula](https://www.linkedin.com/in/pramira-mindula)
+- 🌐 Portfolio: https://pramira-portfolio.vercel.app/
 
 ---
 
