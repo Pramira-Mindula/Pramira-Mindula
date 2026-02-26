@@ -16,7 +16,7 @@
 ## 🛠 Tech Stack
 
 ### 🌐 MERN Stack
-🟢 MongoDB &nbsp; 🚂 Express &nbsp; ⚛️ React &nbsp; 🟩 Node.js  
+🍃 MongoDB &nbsp; 🚂 Express &nbsp; ⚛️ React &nbsp; 🟩 Node.js  
 
 ### 💻 Other Skills
 🐍 Python  
