@@ -6,8 +6,6 @@
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pramira-Mindula)
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pramira-Mindula&theme=github)
 
 <table>
