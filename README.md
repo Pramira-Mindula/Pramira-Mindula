@@ -1,12 +1,44 @@
-### 👋 Hi, I’m @Pramira-Mindula
-  
-### 📫 Connect With Me
-- 📧 **Email:** [pramira2003@gmail.com](mailto:pramira2003@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/pramira-mindula](https://www.linkedin.com/in/pramira-mindula)
+# 👋 Hi, I'm Pramira Mindula
 
-## 📈 Contribution Graph
+💻 Beginner Developer | 🚀 MERN Stack Learner 
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pramira-Mindula&theme=github)
+---
+
+## 🧑‍💻 About Me
+
+- 🌱 Currently learning **Full Stack Development**
+- ⚛️ Exploring the **MERN Stack**
+- 🎯 Goal: Become a Software Engineer
+<!-- - 🐍 Building projects with **Python** -->
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 MERN Stack
+🟢 MongoDB &nbsp; 🚂 Express &nbsp; ⚛️ React &nbsp; 🟩 Node.js  
+
+### 💻 Other Skills
+🐍 Python  
+🧠 Problem Solving  
+🔧 Git & GitHub  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **pramira2003@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/pramira-mindula](https://www.linkedin.com/in/pramira-mindula)
+
+---
+
+## 📊 GitHub Activity
+
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pramira-Mindula&theme=github)
+
+---
+
+## 🚀 Contribution Overview
 
 <table>
 <tr>
@@ -35,6 +67,6 @@
 </tr>
 </table>
 
-<!-- ## 🔥 Streak
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pramira-Mindula&theme=tokyonight)
+⭐ *Learning step by step. Building project by project.*
